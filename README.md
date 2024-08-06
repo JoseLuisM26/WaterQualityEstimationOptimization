@@ -1,5 +1,4 @@
 # Estimation and optimization water quality parameters.
-# Project: Hyperparameter Optimization of Random Forest Model
 
 The project aims to optimize the hyperparameters of the Random Forest (RF) machine learning model. The goal of this process is to develop and optimize the model for a more accurate estimation of water quality nutrients in various bodies, particularly in basins with intensive agriculture.
 
